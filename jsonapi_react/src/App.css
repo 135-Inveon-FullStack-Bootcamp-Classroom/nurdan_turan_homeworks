@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  text-decoration: none;
+}
+body {
+}
+
+li{
+  display: flex;
+  align-items: center;
+  color: blue;
+  text-decoration: none;
+  
+  
+}
+h1{
+  color: red;
+
+}
+
+
+
+
+
+
+
