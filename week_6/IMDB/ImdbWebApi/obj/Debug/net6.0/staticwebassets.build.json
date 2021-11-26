@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O/ofAWrXLyKP9Ml4pBCcFA6h7chbbYB+uXpScv0n5UA=",
+  "Source": "ImdbWebApi",
+  "BasePath": "_content/ImdbWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
